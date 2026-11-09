@@ -1,26 +1,36 @@
-# Catálogo Científico do Norte
+# Catálogo Científico de Tecnologia e Computação da Região Norte
 
 ## Sobre o projeto
 
-Projeto dedicado à identificação, organização e catalogação
-de publicações científicas e eventos acadêmicos da área de
-Tecnologia e Computação na Região Norte do Brasil.
+O projeto propõe o desenvolvimento de uma plataforma digital para catalogar, organizar e facilitar o acesso a revistas científicas, artigos, simpósios, congressos e conferências relacionados às áreas de Tecnologia e Computação na Região Norte do Brasil.
 
-## Objetivo
+## Problema
 
-Centralizar informações sobre revistas científicas,
-simpósios, congressos, conferências e artigos científicos,
-facilitando o acesso à produção acadêmica regional.
+As informações sobre publicações e eventos científicos da área de Tecnologia e Computação na Região Norte estão distribuídas em diferentes plataformas e instituições, dificultando sua localização e consulta.
+
+## Objetivo geral
+
+Desenvolver um catálogo digital que centralize informações sobre a produção científica e os eventos acadêmicos de Tecnologia e Computação da Região Norte.
 
 ## Abrangência
 
-- Região Norte do Brasil;
-- Ciência da Computação;
-- Tecnologia da Informação;
-- Sistemas de Informação;
-- Engenharia de Software;
-- Inteligência Artificial.
+- Amazonas
+- Pará
+- Acre
+- Amapá
+- Rondônia
+- Roraima
+- Tocantins
 
-## Status do projeto
+## Etapas do projeto
 
-Em desenvolvimento.
+1. Levantamento de plataformas existentes.
+2. Pesquisa de revistas, artigos e eventos científicos.
+3. Definição dos requisitos.
+4. Modelagem e prototipação.
+5. Desenvolvimento da plataforma.
+6. Testes e validação.
+
+## Status
+
+Em fase de pesquisa e planejamento.
